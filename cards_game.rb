@@ -1,4 +1,5 @@
 #Flash Card Game
+#GITS 1º Git add e nome do ficheiro 2º Git commit -m "mensagem" 3º Git push
 def cards_game()
     system "cls" #limpa o terminal
     puts "Hi! This is a mathematical app cards game"
